@@ -28,8 +28,8 @@
 *.out
 *.app
 
-
 .project
+.cproject
 .classpath
 .settings/
 
